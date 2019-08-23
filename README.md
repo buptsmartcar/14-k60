@@ -28,5 +28,5 @@ Simply open `vcan_Kinetis.eww` with `IAR workbench` of version 8.22 or later. Fo
     > This folder contains your own c files. You can play with this folder as you like. Note that there are already several files provided for you. Among them, `motor.c` and `steer.c` are the most important ones containing control algorithm (PID, in this case) for your motor and your steer. `img_control.c` is where you put your image processing algorihm, if you like. `Karman.c` is a off-the-shelf karman filter that can be used to mix data from gyro and acclerator. And `control.c` is a place where you put your code for initializing or other purpose.
 
 ## Contact us
-    If you have any questions, feel free to reach me at Motren909@foxmail.com
+If you have any questions, feel free to reach me at Motren909@foxmail.com
     
